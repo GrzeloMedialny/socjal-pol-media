@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SOCJAL • POL-MEDIA</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #004466;
+      color: #fff;
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    nav a {
+      color: #fff;
+      margin-left: 1rem;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    main {
+      padding: 2rem;
+    }
+    .hero {
+      background: #e2ecf0;
+      padding: 2rem;
+      border-radius: 10px;
+      text-align: center;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #ddd;
+      margin-top: 2rem;
+    }
+    .btn {
+      display: inline-block;
+      padding: 0.75rem 1.5rem;
+      margin-top: 1rem;
+      background: #0077aa;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background: #005577;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div><strong>SOCJAL • POL-MEDIA</strong></div>
+    <nav>
+      <a href="#">Strona Główna</a>
+      <a href="#">Logowanie</a>
+      <a href="#">Rejestracja</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Nowa era społeczności online</h1>
+      <p>Projekt alternatywnej, suwerennej przestrzeni społecznościowej dla ludzi z pasją.</p>
+      <a href="#" class="btn">Dołącz do projektu</a>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Grzelo Medialny • Open Social Vision
+  </footer>
+</body>
+</html>
