@@ -6,15 +6,7 @@
   <title>SOCJAL • POL-MEDIA</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Inter', sans-serif; background: #f4f4f4; color: #333; }
-    header { background: #1d1d1d; color: white; padding: 1rem 2rem; display: flex; justify-content: space-between; align-items: center; }
-    nav a { color: white; margin-left: 1.5rem; text-decoration: none; font-weight: 600; }
-    .hero { padding: 4rem 2rem; text-align: center; background: white; }
-    .hero h1 { font-size: 3rem; margin-bottom: 1rem; }
-    .hero p { font-size: 1.25rem; margin-bottom: 2rem; }
-    .cta-btn { padding: 0.75rem 2rem; background: #007aff; color: white; border: none; font-size: 1rem; border-radius: 8px; cursor: pointer; text-decoration: none; }
-    footer { background: #1d1d1d; color: white; text-align: center; padding: 1rem; margin-top: 3rem; }
+   
   </style>
 </head>
 <body>
