@@ -44,3 +44,4 @@ Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trz
 
 
 ----------------------------------------------------
+yte yut er6y e6r e56
