@@ -43,3 +43,4 @@ W rzeczywistości (np. w szeregu uranowym) Uran-238 rozpada się w Tor-234, ten 
 Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trzech pierwszych pierwiastków w łańcuchu) lub wytłumaczyć, jak oblicza się stałą rozpadu λ. Co wybierasz?
 
 
+----------------------------------------------------
