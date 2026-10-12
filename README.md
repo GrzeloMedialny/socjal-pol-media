@@ -46,4 +46,4 @@ Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trz
 ----------------------------------------------------
 yte yut er6y e6r e56 6 6u e56 356 56 56 56 56 e56 6 356 356 36 6 36y 36y 36y 3 6y 36y 364y 364y 364 65y 36y 36
  r6 e56 5e6 e56 56 56 e56 56u 56u e56yu e56uy e56 56 36y  636y 6y 36y 36y 36y 36 56 356 356 3564 356 y 356 36 y
-   56 5e6 e56 e56y e56 e56 e56 675 u54e67u 56 yu56 6y36y 364y 66  6y 6y 6y 6y 36y 36 6y 36y 6y 6y 6y 36
+   56 5e6 e56 e56y e56 e56 e56 675 u54e67u 56 yu56 6y36y 364y 66  6y 6y 6y 6y 36y 36 6y 36y 6y 6y 6y 36 6y 36y 36 
