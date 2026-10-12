@@ -45,3 +45,4 @@ Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trz
 
 ----------------------------------------------------
 yte yut er6y e6r e56
+ r6 e56 5e6 e56 56 56 e56 
