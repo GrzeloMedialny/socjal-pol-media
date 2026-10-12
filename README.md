@@ -45,4 +45,4 @@ Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trz
 
 ----------------------------------------------------
 7u u6j67j67j 647u j467uj 67ju 765u 47uj 47u 75u 4576  u5u 567u 356u7 356
- 75u 5u 4567u 5 576u  675u 5u 56u7 56u7 356 
+ 75u 5u 4567u 5 576u  675u 5u 56u7 56u7 356  356 356u 53u 35u 53u 
