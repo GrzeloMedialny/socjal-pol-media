@@ -44,3 +44,4 @@ Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trz
 
 ------------------------------------------------------
 terqerg qer qerfg qerfg q4r
+reg qerg qer5g q3 tq34t q54rt 
