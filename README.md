@@ -39,7 +39,4 @@ ertg 3rgf 35 35 35 t3
 4g q35g 35 35gf 35 3q 
 -------------------------
 reg weg weg weg weg 45 
-rth r hwrgh w4 gw4y tw45 
-h wgh 4w6 43w6 y34 yt4y t
-5 346g 4g 4g w4g w46 34
-----------------------
+88888888888888888888
