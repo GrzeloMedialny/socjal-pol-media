@@ -31,12 +31,4 @@
 erg qrf q3rf qrf qrew 
 er qr qr qerfg qer qe35 
 er ger qer qer qer qer 
-r qer qer qer qer qer f
-------------------------
-wtg wteg eg eg weg eg 
-erg erg eg eg er q3r5 
-ertg 3rgf 35 35 35 t3
-4g q35g 35 35gf 35 3q 
--------------------------
-reg weg weg weg weg 45 
-88888888888888888888
+44444444444444444444444444444444444444444444444444
