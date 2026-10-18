@@ -34,11 +34,4 @@ tyujrtuyj rtu jrtu jrtuj -
 fqe qewr fqewrf qewrf qe-
 --------------------------
 rh rtyh ery her hery her 
-n eh eryh ery er her ery 
- erh eryth eryh ery hery 
-yher herh etyh eryh ery 
--------------------------
-rh ry eyheryh eryh ery rey 
-drh erh erh erth ret ret re
-fgh drh rth drh rdh dr rd 
-gf dsrthg rthg rtgh rt drt 
+n eh eryh 54345t3456tg w456g 34w5e6 er6hg e546gh e43w56g e465g 34we65gt e456g e4w56y e456y 3456ty 3456gy 3e456ghy e456y 
