@@ -22,25 +22,23 @@
   </section>
 
 
-dg rethg wrt hwrt hwrt hwt 
- t wt wt w456y w456y w46hg 
- 46y w64y w465y w4y 4wy 4wy 
- w456y w456y w456y w456y w456y 
-ty eh 6h 6y 6y e56y e56y 
-56 6y w6yw46y w46h 
- 67 46uir6 7j 6j 6ju 6j 467
- 6767j 6j 56uj um u j4678j 
- 67 4678iu 4678i 46j 4678 4687 64
- 7u4 67467u 467 u467 uj467 467u
- 67iu 467 4687ui 687 687 56
-f ertg qe gqerg qeg q3e5 g
- erg q3r q35r q3 tq345t q35t
- 3r5tg q3t q35t q35 t4q34 tq34
-3 q3 tq34t5 q3t5 q35t q35t q35t q35 t
- 35rt q354t q345 tq3t q354 t
- q34t q34 q34t q34gq3gq3 
- 34r 34 34 f34 34 4 
- 34 34 34 34f   4 f34 fq3 434 
-t gw4 4tg 45g 45g 54 45 w45 
- 5 q5g q5g q53g q5g q5g q534 
- 45g q5g q35g q53g q5gq35g q35 
+  <footer>
+    &copy; 2025 POL-MEDIA | Projekt otwartoźródłowy
+  </footer>
+</body>
+</html>
+Wzór Batemana
+Dla n-tego izotopu w szeregu promieniotwórczym, jego ilość $N_n(t)$ w czasie t wyraża się wzorem:
+$$N_n(t) = N_1(0) \left( \prod_{i=1}^{n-1} \lambda_i \right) \sum_{i=1}^n \frac{e^{-\lambda_i t}}{\prod_{j=1, j\neq i}^n (\lambda_j - \lambda_i)}$$ 
+## Gdzie poszczególne symbole oznaczają:
+
+* $N_n(t)$ – liczba atomów n-tego izotopu w łańcuchu po czasie t.
+* N₁(0) – początkowa liczba atomów pierwszego (macierzystego) izotopu w czasie t=0.
+* $\lambda_i$ – stała rozpadu promieniotwórczego dla i-tego izotopu (powiązana z czasem połowicznego rozpadu wzorem $\lambda = \frac{\ln(2)}{T_{1/2}}$).
+* $\prod$ – symbol iloczynu (mnożenie kolejnych wartości).
+* $\sum$ – symbol sumy (dodawanie kolejnych składników).
+
+Klasyczny, prosty wzór na rozpad jądrowy ($N(t) = N_0 e^{-\lambda t}$) zakłada, że badamy tylko jeden izotop, który zamienia się w coś stabilnego.
+W rzeczywistości (np. w szeregu uranowym) Uran-238 rozpada się w Tor-234, ten w Protaktyn-234, potem w Uran-234 i tak przez kilkanaście kroków. Każdy z tych elementów rozpada się w swoim własnym tempie, jednocześnie będąc stale "produkowanym" przez swojego poprzednika. Równanie Batemana rozwiązuje ten cały ciąg skomplikowanych równań różniczkowych jednocześnie.
+Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trzech pierwszych pierwiastków w łańcuchu) lub wytłumaczyć, jak oblicza się stałą rozpadu λ. Co wybierasz?
+
