@@ -29,17 +29,22 @@
 </html>
 
 
-----------------------
--------------------
---------------------------
-----------------------
-etrg w5g w45g 5g 5gt 5 4w5 w5 tw45 w4
-35t 3wq5t 35t 35t 3w5t w35t w435 tw5 
-53t 3wq5t 35t w35t w345t w3t 3wqt w34 
-354t 3qt 3t 3qwt 3wqt 3qw4 34t 3q4 q3 4
- t34 t3q4rt q34rt 3q4rt 3q4 q3r q34 q 4
-4 q4 q4 q4rtq34rq324 q34 q4 q4 q4 q324 q 
-4 q4 q324 q243 q324 23 q23 q324 q243 q234 
-34 q324 234 24 234 24352435243 4 4 2
- 245 234 24 245 234r5 324 234 234521 
-4532 4253 4251 215 123 423 452134 2134 
+
+
+
+
+Wzór Batemana
+Dla n-tego izotopu w szeregu promieniotwórczym, jego ilość $N_n(t)$ w czasie t wyraża się wzorem:
+$$N_n(t) = N_1(0) \left( \prod_{i=1}^{n-1} \lambda_i \right) \sum_{i=1}^n \frac{e^{-\lambda_i t}}{\prod_{j=1, j\neq i}^n (\lambda_j - \lambda_i)}$$ 
+## Gdzie poszczególne symbole oznaczają:
+
+* $N_n(t)$ – liczba atomów n-tego izotopu w łańcuchu po czasie t.
+* N₁(0) – początkowa liczba atomów pierwszego (macierzystego) izotopu w czasie t=0.
+* $\lambda_i$ – stała rozpadu promieniotwórczego dla i-tego izotopu (powiązana z czasem połowicznego rozpadu wzorem $\lambda = \frac{\ln(2)}{T_{1/2}}$).
+* $\prod$ – symbol iloczynu (mnożenie kolejnych wartości).
+* $\sum$ – symbol sumy (dodawanie kolejnych składników).
+
+Klasyczny, prosty wzór na rozpad jądrowy ($N(t) = N_0 e^{-\lambda t}$) zakłada, że badamy tylko jeden izotop, który zamienia się w coś stabilnego.
+W rzeczywistości (np. w szeregu uranowym) Uran-238 rozpada się w Tor-234, ten w Protaktyn-234, potem w Uran-234 i tak przez kilkanaście kroków. Każdy z tych elementów rozpada się w swoim własnym tempie, jednocześnie będąc stale "produkowanym" przez swojego poprzednika. Równanie Batemana rozwiązuje ten cały ciąg skomplikowanych równań różniczkowych jednocześnie.
+Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trzech pierwszych pierwiastków w łańcuchu) lub wytłumaczyć, jak oblicza się stałą rozpadu λ. Co wybierasz?
+
