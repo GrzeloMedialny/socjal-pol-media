@@ -64,9 +64,9 @@ Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trz
 ------------------------------
 
 
+56 yh56h 56h 356h 56h 56h 56h 3456y 56h 56y 56 6y 3546 
 
-
-
+ w456y546y 56y 56y 546y3456 
 
 Wzór Batemana
 Dla n-tego izotopu w szeregu promieniotwórczym, jego ilość $N_n(t)$ w czasie t wyraża się wzorem:
