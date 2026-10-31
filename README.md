@@ -31,20 +31,20 @@
 ---------------------------------------------------------------------------------------------------
 
 
-sr gearg eg etg aeg esag earg aerg aerg aerg aerg aerg aerg aewrg aerg aerg aewrg aerg aerg aerg aewr 
-dvs faerf aewr faewrfgvawerfgaWRF WArfaWEF AWREF wef Q3 wef WREF WREF wref WEF wef WEF wef WREF wref WERF 
-ZDSFVBZSDF AER AEWR AWRF AWREF AWREF AWREF WEF WAref wref 
- WF wref WREF WREF AWref WF wef WEF Wef aw
-Sedf aws WEF wef WQEF qwef WQEF wef WEF wef WEF we 
-wsraf awrfv awrf WEF wef WEF wef WEF wef WEF wef WEF we f
-aw rfgaWERF wref aWREF wef WREF wqef WEF wqef WEF wef WEF wef AW
-ASW ERFawf WEF wf WEF wef WEF wef WEF wqef WQEF wqef WQE F
-WEF Wref W4F WF W FWF QWRF QWRF WQRFG AEW
- RGAWER GAERG AERG QERG QERG QEW4G QEWRG QWE4RG QEW4RG Q ERG QE5G QE5 GQE4 GQWE4GF Q34GF   34WT Q3EWG Q3E4 
- WER QWRGF EQRGQE4G QWE4T Q3W4 QWER EW4 GQEG Q3E4TG 34 34TG 34TG Q3WE
- AERGQ WRGQAERG QE5RG QE5G   Q34T  34  34T   34 T  34T   324TR   24R   24TR   24   24 TR  24 RT  24RT   23   23 R
- AEWRG QWRGF QW4 Q34 Q34 TQ3 432  4T 34 TQ34 
-s eRF wfAWERF wef WFw4 fW Fw  4f   W4Ferb EAQRBV Gwrgf  WRF wrfg WERG   w4regf   W4FW2  34T 3W  4GAERG QAEWRG W4RG W  
- wEF   WQEF   WREF   WRF   W4F   23F   24F   234R   2 R  23   23   24 F  24   234R   24   234RF   234R   23   3W4 
- WERF  W F  24FR   W4F   24   24   234   24 R  234R   23 R  23   24 RF  234RF   W24F  24F   23F  24RF  24FR   243  24 
- QWEF  f   2qrf   23r   23r   23r   123r   23 r  23r   23r   23r   123r   123 r  23r   213   23f  23f  2f   23  2q
+
+
+
+Wzór Batemana
+Dla n-tego izotopu w szeregu promieniotwórczym, jego ilość $N_n(t)$ w czasie t wyraża się wzorem:
+$$N_n(t) = N_1(0) \left( \prod_{i=1}^{n-1} \lambda_i \right) \sum_{i=1}^n \frac{e^{-\lambda_i t}}{\prod_{j=1, j\neq i}^n (\lambda_j - \lambda_i)}$$ 
+## Gdzie poszczególne symbole oznaczają:
+
+* $N_n(t)$ – liczba atomów n-tego izotopu w łańcuchu po czasie t.
+* N₁(0) – początkowa liczba atomów pierwszego (macierzystego) izotopu w czasie t=0.
+* $\lambda_i$ – stała rozpadu promieniotwórczego dla i-tego izotopu (powiązana z czasem połowicznego rozpadu wzorem $\lambda = \frac{\ln(2)}{T_{1/2}}$).
+* $\prod$ – symbol iloczynu (mnożenie kolejnych wartości).
+* $\sum$ – symbol sumy (dodawanie kolejnych składników).
+
+Klasyczny, prosty wzór na rozpad jądrowy ($N(t) = N_0 e^{-\lambda t}$) zakłada, że badamy tylko jeden izotop, który zamienia się w coś stabilnego.
+W rzeczywistości (np. w szeregu uranowym) Uran-238 rozpada się w Tor-234, ten w Protaktyn-234, potem w Uran-234 i tak przez kilkanaście kroków. Każdy z tych elementów rozpada się w swoim własnym tempie, jednocześnie będąc stale "produkowanym" przez swojego poprzednika. Równanie Batemana rozwiązuje ten cały ciąg skomplikowanych równań różniczkowych jednocześnie.
+Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trzech pierwszych pierwiastków w łańcuchu) lub wytłumaczyć, jak oblicza się stałą rozpadu λ. Co wybierasz?
