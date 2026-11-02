@@ -31,20 +31,3 @@
 ---------------------------------------------------------------------------------------------------
 
 
- 5ey 3rtg ryhg 3r 3rh 35yh 35h 35h 35 h5h 35h 35y 
-  2 ed  2e fd  w2edf 2ed `243d `23d `23d   wex   wed   w
-wef qwcf qwrc1wervc qerfv 13rf 1wrf13rf 1er f134f 3
-ed `2ed `2ed `23d 2e3d2e`d `23ed`23d `23d `123e `123e `23e
-`1 3e `123e132e123e 23e `23e `23e `23e `123e 243r3rfqervfewqrve
-erfve rfq3erf qwrf 34f34f 134f1324f `234fr 124f 1324f 1324r f134rf 
-aedrfvbqerf 132f 1324f 2`4 r`23r`23f 2fd124f 24f24f 2`4f 23f 1234f
-q  3dwfd2ef 34f 1324f1`2r `23r324r1324f 1324f 134f 13f 13erfvqerv
-23w4f324f3wf 13f 13wef1324f 243rd`234r `234r `23rf `24rf `24r 
-4rf `234r `243r`234fd `23r `23r `23fd `23d `234df `23df `23df `23
-rnbwrtb wrtgb4g2435gf435g4tg 24q567u 56y356y3456 356h 356 h356 h356
- 563456y 3546y 3456y 356y 3546y 3546y 3456 3456 356h 3546hg3546h 356
- 4563456y 46y 2456yt2456y 246 y46y 4y 246 y46 y32456 y456 y346 y34526 
-51354 134`1r`4r`24 134t 315t 1354t 1325t 2345t 245t 245t 245t 245 
-5413 14 134 134r14`2`25`2435 `245 134t 1345t 4134rt `4 `3`24 5 556 56yhg46h
-yh35y 353546gh3456g3456h 34566gh 345 35yh35h 5y53yb35y356 h35 yh 356
-56 46gh245 245456t 246 246gh46h 2456gh 35h 32546426 2456gh 546 h3456h 
