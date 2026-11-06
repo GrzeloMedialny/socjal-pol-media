@@ -31,16 +31,20 @@
 ---------------------------------------------------------------------------------------------------
 
 
-5y 56 356h 56h 56h 56h 545 5y 
- 6y 6y 6y 4536y 565346 65 564 
- 56 36y 36y 6y 6y 6 6 6y 6 65456 
- 6 35 6  y6 y6 6 y6 66 6 6 65 32525 
-  6y 6 6y36yy66y 6 6 6y 6 6  652525 25 
-   6y6354 34 423 52 5 5 5 2352 55 2 525 
-35 25 25 25 25 2525235 25 235 23 2
- 2352 53 253 25 25235 23 2345 2543 23 
- 5 25 235 2352 3562356254623546 256 25 
-5 252356 56234523 354623562345 53 26235 
- 522 35 623562 35 25 25 2562562536235 235 
-  5 235 235 235 235 25 25 26 25 25 25 25 2 
-    25625612356412356 2564262456 25 256256 25
+
+
+Wzór Batemana
+Dla n-tego izotopu w szeregu promieniotwórczym, jego ilość $N_n(t)$ w czasie t wyraża się wzorem:
+$$N_n(t) = N_1(0) \left( \prod_{i=1}^{n-1} \lambda_i \right) \sum_{i=1}^n \frac{e^{-\lambda_i t}}{\prod_{j=1, j\neq i}^n (\lambda_j - \lambda_i)}$$ 
+## Gdzie poszczególne symbole oznaczają:
+
+* $N_n(t)$ – liczba atomów n-tego izotopu w łańcuchu po czasie t.
+* N₁(0) – początkowa liczba atomów pierwszego (macierzystego) izotopu w czasie t=0.
+* $\lambda_i$ – stała rozpadu promieniotwórczego dla i-tego izotopu (powiązana z czasem połowicznego rozpadu wzorem $\lambda = \frac{\ln(2)}{T_{1/2}}$).
+* $\prod$ – symbol iloczynu (mnożenie kolejnych wartości).
+* $\sum$ – symbol sumy (dodawanie kolejnych składników).
+
+Klasyczny, prosty wzór na rozpad jądrowy ($N(t) = N_0 e^{-\lambda t}$) zakłada, że badamy tylko jeden izotop, który zamienia się w coś stabilnego.
+W rzeczywistości (np. w szeregu uranowym) Uran-238 rozpada się w Tor-234, ten w Protaktyn-234, potem w Uran-234 i tak przez kilkanaście kroków. Każdy z tych elementów rozpada się w swoim własnym tempie, jednocześnie będąc stale "produkowanym" przez swojego poprzednika. Równanie Batemana rozwiązuje ten cały ciąg skomplikowanych równań różniczkowych jednocześnie.
+Jeśli chcesz, mogę rozpisać ten wzór dla konkretnego przykładu (np. dla trzech pierwszych pierwiastków w łańcuchu) lub wytłumaczyć, jak oblicza się stałą rozpadu λ. Co wybierasz?
+
