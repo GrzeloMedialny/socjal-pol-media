@@ -31,7 +31,10 @@
 ---------------------------------------------------------------------------------------------------
 
 7k t7k 788k 78k 578 k
+ 7i 578k 578k 578k 578k 578 
 
+
+ 
 
 Wzór Batemana
 Dla n-tego izotopu w szeregu promieniotwórczym, jego ilość $N_n(t)$ w czasie t wyraża się wzorem:
