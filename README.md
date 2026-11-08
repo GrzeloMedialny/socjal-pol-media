@@ -30,18 +30,3 @@
 
 ---------------------------------------------------------------------------------------------------
 
-
-rgwerg qerg etrg wetrg wetg wet5rg wetg wetrg wert
-w w4re yw4 w465ghw46gh 4g w465g w4g w45g w45g w45g 
- w4t w4g w4g w4g w45g w4g w4g w4g w45g w45g 4wg 4w5 
- t w4tg w45 g245g w45g w4eg we4g wetg wetg wetg wert 
-qe deqw   ef d  ef   wef w  ef   ew f  we
-e f wqe   we fw  e fw  e fw  e f
- wefw  ef wef wef wef we fwef wef 
- wef w  ef wef wef wef we fwqe we 
- wef wef w  ef w  ef w  ef w  ef 
- e   wqe fw  e e we f  e   e eqw 
-wrfg wrf gwrf wrf wrf wrf wref qw
-we fwe fwef wef WEF WEF WEF WE WE 
-r g qr gfqr qr qrwf qwr      retf w33re
- wefr wef qwefrqwefqw qwerf wf werf
