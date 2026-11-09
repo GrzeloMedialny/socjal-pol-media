@@ -30,20 +30,5 @@
 
 ---------------------------------------------------------------------------------------------------
 
-hj rtjty tey ty 
- rytherh erh erh ery ery 
- erh erh erh erh erh erh 
- ryh erh erh erh reh re 
- rtyh rh rh rh rth re r
- rth rh rh rh rh r re r
- t wrwrtgh wrtgh wrt gw
- rt wrt wrt rth rth re t
- rth r hert hret rt ert rt
- erg weg wetg wetg wet gw
- erg wertg weg weg wet 
- erg wetg weg wetg wetg we
- erg weg wetg wetg wetg we
- werg weg wetg wetrg wert 
- erg weg wetrg wet gwetr 
- erg weg wertg wert gwert 
-erg 2er gwerg we gwert we
+\({}_{\ \ 92}^{235}\text{U}+{}_{0}^{1}\text{n}\longrightarrow {}_{\ \ 56}^{141}\text{Ba}+{}_{\ \ 36}^{92}\text{Kr}+3\,{}_{0}^{1}\text{n}+\text{energia\ ( 200 MeV)}\)
+(Istnieje wiele innych możliwych dróg rozpadu – jednym z częstych wariantów jest też powstanie baru i strontu lub ksenonu i strontu oraz 2–3 neutronów swobodnych).
