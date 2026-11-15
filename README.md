@@ -37,4 +37,4 @@
 3. Emisja neutronów: W wyniku rozpadu uwalniane są dodatkowe 2 do 3 wolnych neutronów.
 4. Uwolnienie energii: Procesowi towarzyszy uwolnienie ogromnej ilości energii (rzędu ok. 200 MeV na jeden akt rozszczepienia), głównie w postaci energii kinetycznej produktów oraz promieniowania gamma.
 
-e wre twr
+e wre twr etr 4 w wt 4tr qw tr
