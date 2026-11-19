@@ -38,7 +38,7 @@
 4. Uwolnienie energii: Procesowi towarzyszy uwolnienie ogromnej ilości energii (rzędu ok. 200 MeV na jeden akt rozszczepienia), głównie w postaci energii kinetycznej produktów oraz promieniowania gamma.
 
 fve qerg eqr er
-e ge5r qeg q3eg q3eg 
+e ge5r qeg q3eg q3eg  3241324 134tr 314tr 34 314 
 e rgq3eg q3egqe3g qeg 
  gq3e5g q3egq3e5g q5g 3tg 34t 34t 34t 34 q3434   234r   24r   234r   24
  24r   24r 2  4r 2  4   24 
