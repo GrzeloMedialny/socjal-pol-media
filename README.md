@@ -27,7 +27,3 @@
   </footer>
 </body>
 </html>
-
- l9o8989          9888p9 89 869 689l 68l 68l68l68l68l68l 8l8l 8l8l77l780l78l 8l 780l 80l 7807l7l00
-8 87l 70 70l780l 7l 7l 7l 78l  7 8l 8l 780l 780l 78l7 80l7 8l 7l 7l 79l 79 8 68l 68l 80l 78l8l78000
-ol68ol 68l 68l 8l 78l 8l 78 l78 8l 8l 8l 8l7 8l68 l yuktk 7k 689k 68l
